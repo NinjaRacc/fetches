@@ -86,6 +86,15 @@ A curation of cool system information fetches.
 <img src="previews/jfetch.png">
 </details>
 
+# L
+<details>
+<summary>
+<a href="https://github.com/LordOfTrident/lysfetch">lysfetch</a>
+- A system information fetch program written in lua
+</summary>
+<img src="previews/lysfetch.png">
+</details>
+
 # M
 <details>
 <summary>
